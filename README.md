@@ -1,11 +1,13 @@
-# Dapp List
+# Introduction
 Bevm ecosystem project list, if you want to submit your own project please submit it in the following format.
 
-Please note that please upload the project logo to the assets folder.
+# How to submit a project
+1. Fork the Repository: Start by forking this repository.
+2. Add Resources: Fill in the project information according to the prescribed format.
+3. Submit a Pull Request: Create a Pull Request for review.
+
+# Format
 project type：Bridge,Dev Tools,Infra,NFT,Wallet,Social,ldentity,Defi,Data Service,CEX,Security,Funding,Launchpad,Entertainment,Inscription
-
-
-# dapplist.json Add dapp format
 ```json
 {
   "bevm": [
