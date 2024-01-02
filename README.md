@@ -17,10 +17,7 @@ project type：Bridge,Dev Tools,Infra,NFT,Wallet,Social,ldentity,Defi,Data Servi
       "types": ["Social", "DEFI", "Tools"], 
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
       "description": "The first decentralized full-chain financial platform.", 
-      "link": "https://www.omnibtc.finance/", 
-      "twitter": "https://twitter.com/OmniBTC", 
-      "medium": "https://medium.com/@omnibtc",  
-      "telegram": "https://twitter.com/OmniBTC" 
+      "link": "https://www.omnibtc.finance/"
     }
   ],
   "bevm-testnet": [
@@ -30,10 +27,7 @@ project type：Bridge,Dev Tools,Infra,NFT,Wallet,Social,ldentity,Defi,Data Servi
       "types": ["Social", "DEFI", "Tools"], 
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
       "description": "The first decentralized full-chain financial platform.", 
-      "link": "https://www.omnibtc.finance/", 
-      "twitter": "https://twitter.com/OmniBTC",  
-      "medium": "https://medium.com/@omnibtc",   
-      "telegram": "https://twitter.com/OmniBTC"  
+      "link": "https://www.omnibtc.finance/"
     }
   ]
 }
