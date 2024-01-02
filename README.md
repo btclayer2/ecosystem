@@ -14,7 +14,7 @@ project type：Bridge,Dev Tools,Infra,NFT,Wallet,Social,ldentity,Defi,Data Servi
     //...
     {
       "name": "OmniBTC", 
-      "types": ["Social", "DEFI", "Tools"], 
+      "types": ["Bridge", "Tools"], 
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
       "description": "The first decentralized full-chain financial platform.", 
       "link": "https://www.omnibtc.finance/"
@@ -24,7 +24,7 @@ project type：Bridge,Dev Tools,Infra,NFT,Wallet,Social,ldentity,Defi,Data Servi
     //...
     {
       "name": "OmniBTC",  
-      "types": ["Social", "DEFI", "Tools"], 
+      "types": ["DEFI", "Tools"], 
       "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
       "description": "The first decentralized full-chain financial platform.", 
       "link": "https://www.omnibtc.finance/"
