@@ -1,20 +1,20 @@
 {
   "bevm": [
     {
-      "name": "Aptos Bulls",
-      "types": ["NFT"],
-      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aptos BULLS.jpeg",
-      "description": "Aptos区块链上的第一只公牛。",
-      "twitter": "https://twitter.com/AptosBulls"
+      "name": "OmniBTC", 
+      "types": ["DEFI"], 
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
+      "description": "The first decentralized full-chain financial platform.", 
+      "link": "https://www.omnibtc.finance"
     }
   ],
    "bevm-testnet": [
     {
-      "name": "Aptos Bulls",
-      "types": ["NFT"],
-      "icon": "https://raw.githubusercontent.com/chainx-org/move-dapp-list/main/assets/Aptos BULLS.jpeg",
-      "description": "Aptos区块链上的第一只公牛。",
-      "twitter": "https://twitter.com/AptosBulls"
+      "name": "OmniBTC", 
+      "types": ["DEFI"], 
+      "icon": "https://raw.githubusercontent.com/omniBTClabs/move-dapp-list/main/assets/OmniBTC.png", 
+      "description": "The first decentralized full-chain financial platform.", 
+      "link": "https://www.omnibtc.finance"
     }
    ]
   
