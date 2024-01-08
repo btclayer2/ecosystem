@@ -21,7 +21,7 @@ Here is an example in JSON format:
 
 ```json
 {
-  "bevm": [
+  "bevm-canary": [
     {
       "name": "OmniBTC",
       "types": ["Bridge", "Tools"],
@@ -30,7 +30,7 @@ Here is an example in JSON format:
       "link": "https://www.omnibtc.finance/"
     }
   ],
-  "bevm-testnet": [
+  "bevm-mainnet": [
     {
       "name": "OmniBTC",
       "types": ["DEFI", "Tools"],
