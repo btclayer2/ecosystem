@@ -3,7 +3,7 @@
     {
       "name": "OmniBTC", 
       "types": ["DEFI"], 
-      "icon": "https://github.com/btclayer2/ecosystem/tree/main/assets/omnibtc.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
       "description": "The first decentralized full-chain financial platform.", 
       "link": "https://www.omnibtc.finance"
     }
@@ -12,7 +12,7 @@
     {
       "name": "OmniBTC", 
       "types": ["DEFI"], 
-      "icon": "https://github.com/btclayer2/ecosystem/tree/main/assets/omnibtc.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
       "description": "The first decentralized full-chain financial platform.", 
       "link": "https://www.omnibtc.finance"
     }
