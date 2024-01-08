@@ -14,7 +14,7 @@ To submit your project to this list, please follow these steps:
 
 When adding your project, please use the following format:
 
-- **Project Type**: Choose from Bridge, Dev Tools, Infra, NFT, Wallet, Social, Identity, Defi, Data Service, CEX, Security, Funding, Launchpad, Entertainment, Inscription.
+- **Project Type**: Bridge, Dev Tools, Infra, NFT, Wallet, Social, Identity, Defi, Data Service, CEX, Security, Funding, Launchpad, Entertainment, Inscription.
 - **Project Icon**: Upload your project logo in the asset file, then copy the path and fill it in json.
 
 Here is an example in JSON format:
