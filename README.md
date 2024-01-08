@@ -26,7 +26,7 @@ Here is an example in JSON format:
       "name": "OmniBTC",
       "types": ["Bridge", "Tools"],
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png",
-      "description": "The first decentralized full-chain financial platform.",
+      "description": "The first decentralized omnichain financial platform.",
       "link": "https://www.omnibtc.finance/"
     }
   ],
@@ -35,7 +35,7 @@ Here is an example in JSON format:
       "name": "OmniBTC",
       "types": ["DEFI", "Tools"],
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png",
-      "description": "The first decentralized full-chain financial platform.",
+      "description": "The first decentralized omnichain financial platform.",
       "link": "https://www.omnibtc.finance/"
     }
   ]
