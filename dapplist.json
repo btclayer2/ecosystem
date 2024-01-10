@@ -38,7 +38,7 @@
      {
       "name": "Coral Finance", 
       "types": ["Bridge","DEX"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Coral.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/coral.png", 
       "description": "Coral Finance is a derivatives trading platform on Bitcoin Layer2. We Premium Trading that provide a reliable and non-inflationary solution for a variety of assets, such as cryptos, inscriptions and stocks of RWA. In addition, it holds core values for users such as asset growth, risk management, and capital efficiency.", 
       "link": "https://www.coraldex.finance"
     }
