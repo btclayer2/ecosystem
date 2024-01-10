@@ -26,24 +26,15 @@
       "types": ["Bridge","Infra"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/meson.svg", 
       "description": "Meson (https://meson.fi) is a leading unified cross-chain bridging protocol that enables the seamless cross-chain experience for tokens like BTC, ETH, BNB, USDC, USDT, and DAI across more than 33 high-performance public chains and layer-2 solutions.", 
-      "link": "https://dsyncle.io"
+      "link": "https://meson.fi/"
     },
      {
-      "name": "Dsyncle", 
-      "types": ["Social"], 
+      "name": "Owlto Finance", 
+      "types": ["Bridge"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
-      "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.", 
-      "link": "https://dsyncle.io"
-    },
-     {
-      "name": "Dsyncle", 
-      "types": ["Social"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
-      "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.", 
-      "link": "https://dsyncle.io"
+      "description": "Owlto Finance is a decentralized cross-rollup bridge that focuses on L2, providing 'safe, fast, cheap, and easy-to-use' services.", 
+      "link": "https://owlto.finance/"
     }
-
-    
   ],
    "bevm-mainnet": [
    ]
