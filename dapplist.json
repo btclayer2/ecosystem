@@ -20,34 +20,6 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
       "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.", 
       "link": "https://dsyncle.io"
-    },
-     {
-      "name": "SoulBound", 
-      "types": ["Launchpad"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/SoulBound.jpeg", 
-      "description": "The first community centric, incentive-based Launchpad 2.0 focused on Bitcoin Ecosyetm A new paradigm for investment in Web3.", 
-      "link": "https://soulboundbtc.com"
-    },
-     {
-      "name": "Dsyncle", 
-      "types": ["Social"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
-      "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.", 
-      "link": "https://dsyncle.io"
-    },
-     {
-      "name": "SoulBound", 
-      "types": ["Launchpad"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/SoulBound.jpeg", 
-      "description": "The first community centric, incentive-based Launchpad 2.0 focused on Bitcoin Ecosyetm A new paradigm for investment in Web3.", 
-      "link": "https://soulboundbtc.com"
-    },
-     {
-      "name": "Dsyncle", 
-      "types": ["Social"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
-      "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.", 
-      "link": "https://dsyncle.io"
     }
   ],
    "bevm-mainnet": [
