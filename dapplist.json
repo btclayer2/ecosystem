@@ -31,7 +31,7 @@
      {
       "name": "Owlto Finance", 
       "types": ["Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Owlto.png", 
       "description": "Owlto Finance is a decentralized cross-rollup bridge that focuses on L2, providing 'safe, fast, cheap, and easy-to-use' services.", 
       "link": "https://owlto.finance/"
     }
