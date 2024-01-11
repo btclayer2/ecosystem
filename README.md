@@ -24,7 +24,7 @@ Here is an example in JSON format:
   "bevm-canary": [
     {
       "name": "OmniBTC",
-      "types": ["Bridge", "Tools"],
+      "types": ["Bridge", "Defi"],
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png",
       "description": "The first decentralized omnichain financial platform.",
       "link": "https://www.omnibtc.finance/"
@@ -33,7 +33,7 @@ Here is an example in JSON format:
   "bevm-mainnet": [
     {
       "name": "OmniBTC",
-      "types": ["DEFI", "Tools"],
+      "types": ["DEFI", "Defi"],
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png",
       "description": "The first decentralized omnichain financial platform.",
       "link": "https://www.omnibtc.finance/"
