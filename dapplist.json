@@ -48,6 +48,20 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevscriptions.jpg", 
       "description": "The first inscription platform on BTC L2 - BEVM.", 
       "link": "https://www.bevscriptions.com"
+    },
+     {
+      "name": "BL2Rune", 
+      "types": ["Launchpad"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/BL2Rune.png", 
+      "description": "BL2Rune is a Rune launch platform built on BEVM , utilizing the virtual machine and decentralized application layer of BEVM to establish new Rune standards.", 
+      "link": "https://bl2rune.com"
+    },
+     {
+      "name": "Richverse", 
+      "types": ["Game"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Richverse.jpeg", 
+      "description": "Start from BRC Gamefi to Socialfi Network.", 
+      "link": "https://www.richverse.io"
     }
   ],
    "bevm-mainnet": [
