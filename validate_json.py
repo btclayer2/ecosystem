@@ -33,7 +33,7 @@ def validate_json(json_data):
     return True
 
 try:
-    with open('path_to_your_json_file.json', 'r') as file:
+    with open('dapplist.json', 'r') as file:
         data = json.load(file)
         if validate_json(data):
             print("JSON is valid.")
