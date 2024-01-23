@@ -20,4 +20,4 @@ jobs:
 
     - name: Check JSON validity
       run: |
-        python validate_json.py
+        python ./validate_json.py
