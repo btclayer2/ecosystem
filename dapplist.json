@@ -2,7 +2,7 @@
   "bevm-canary": [
     {
       "name": "OmniBTC", 
-      "types": ["DEFI","Bridge"], 
+      "types": ["Defi","Bridge"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
       "description": "The first decentralized omnichain financial platform.", 
       "link": "https://www.omnibtc.finance"
