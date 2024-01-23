@@ -73,7 +73,7 @@
      {
       "name": "Polyhedra", 
       "types": ["Infra","Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.svg", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.png", 
       "description": "Polyhedra is a Web3 cross-operation infrastructure featuring ZKBridge, currently the largest ZKBridge ecosystem, supporting 35+ mainstream L1 and L2 cross-chain interoperability. It also supports both FT and NFT cross-chains at present.", 
       "link": "https://polyhedra.network/"
     },
