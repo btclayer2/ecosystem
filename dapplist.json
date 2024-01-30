@@ -111,6 +111,13 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/tonka.png", 
       "description": "Tonka is a loan agreement built on BEVM, where users can complete loans by mortgaging BTC and inscribed assets, truly utilizing the inscribed assets and fully releasing their financial value. The excellent smart contract function of BEVM, along with its low Gas and fast transaction experience, perfectly fits Tonka's on-chain borrowing and liquidation needs.", 
       "link": "https://www.tonka.finance"
+    },
+     {
+      "name": "Tokenpocket", 
+      "types": ["Wallet"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/tokenpocket.svg", 
+      "description": "TokenPocket is the world's leading multi-chain self-custodial wallet.", 
+      "link": "https://www.tokenpocket.pro/"
     }
   ],
    "bevm-mainnet": [
