@@ -122,7 +122,7 @@
      {
       "name": "Nabox", 
       "types": ["Wallet"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Nabox.svg", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Nabox.png", 
       "description": "Nabox is a cross-chain DID application built for Web3.", 
       "link": "https://nabox.io/"
     }
