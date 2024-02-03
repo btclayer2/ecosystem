@@ -118,6 +118,13 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/tokenpocket.svg", 
       "description": "TokenPocket is the world's leading multi-chain self-custodial wallet.", 
       "link": "https://www.tokenpocket.pro/"
+    },
+     {
+      "name": "Nabox", 
+      "types": ["Wallet"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Nabox.svg", 
+      "description": "Nabox is a cross-chain DID application built for Web3.", 
+      "link": "https://nabox.io/"
     }
   ],
    "bevm-mainnet": [
