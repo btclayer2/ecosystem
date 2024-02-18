@@ -125,6 +125,69 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Nabox.png", 
       "description": "Nabox is a cross-chain DID application built for Web3.", 
       "link": "https://nabox.io/"
+    },
+     {
+      "name": "Pay Protocol", 
+      "types": ["Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/PayProtocol.png", 
+      "description": "Pay Protocol is the first trustless digital asset payment protocol based on smart contracts.", 
+      "link": "https://payprotocol.network"
+    },
+     {
+      "name": "LessGas", 
+      "types": ["Launchpad"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/lessgas.jpeg", 
+      "description": "LessGas is a Bitcoin L2 BRC20 inscription platform built upon the Bitcoin L2 MAP Protocol.  It is designed to bolster small-cap dApps with an innovative launch and growth model.", 
+      "link": "https://lessgas.xyz/"
+    },
+     {
+      "name": "Hiveswap", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/hive.jpeg", 
+      "description": "Hiveswap is the No.1 swap in the Bitcoin ecosystem, providing liquidity services for assets in the Bitcoin ecosystem.", 
+      "link": "https://www.hiveswap.io/"
+    },
+     {
+      "name": "Envio", 
+      "types": ["Dev Tools"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/", 
+      "description": "Envio is a modern, multi-chain EVM blockchain indexing framework speed-optimized for querying real-time and historical data.", 
+      "link": "https://envio.dev"
+    },
+     {
+      "name": "zk-Name Service", 
+      "types": ["Identity"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/zk-name.png", 
+      "description": "A decentralized community domain name service base on Bitcoin/Ethereum Layer2 network.", 
+      "link": "https://zk-ns.xyz/bevm"
+    },
+     {
+      "name": "BitSmiley", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitSmiley.jpeg", 
+      "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE.", 
+      "link": "https://www.bitsmiley.io/"
+    },
+     {
+      "name": "SatSat", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satsat.jpeg", 
+      "description": "A Community-Oriented Bitcoin Layer2 BRC-20 Trading Platform", 
+      "link": "https://satsat.exchange/en"
+    },
+     {
+      "name": "FaTPay", 
+      "types": ["Wallet"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/fatpay.jpeg", 
+      "description": "Leading crypto payment service provider. The bridge connecting Web2.0 and Web3.0", 
+      "link": "https://www.fatpay.org/"
+    },
+     {
+      "name": "BitSea", 
+      "types": ["NFT"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsea.png", 
+      "description": "The 1st AMM+NFT platform on #BEVM (BTC Layer2) offers lightning-fast speed and minimal fees Deploy, bridge, and trade your #Bitcoin NFTs and BRC-20 tokens on L2", 
+      "link": "https://bitsea.ink/#/home"
     }
   ],
    "bevm-mainnet": [
