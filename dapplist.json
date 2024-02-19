@@ -162,13 +162,6 @@
       "link": "https://zk-ns.xyz/bevm"
     },
      {
-      "name": "BitSmiley", 
-      "types": ["Defi"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitSmiley.jpeg", 
-      "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE.", 
-      "link": "https://www.bitsmiley.io/"
-    },
-     {
       "name": "SatSat", 
       "types": ["DEX"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satsat.jpeg", 
