@@ -68,7 +68,7 @@
       "types": ["Infra","Defi"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satoshiprotocol.png", 
       "description": "The Satoshi Protocol is a fully decentralized BTC over-collateralized stablecoin built on BEVM. Any user can mint stablecoins by collateralizing BTC. In the future, the Satoshi Protocol will also integrate its stablecoin into the Lightning Network, allowing its BTC stablecoin to be truly used in the real world.", 
-      "link": "https://www.satoshiprotocol.io"
+      "link": "https://satoshiprotocol.org"
     },
      {
       "name": "Polyhedra", 
