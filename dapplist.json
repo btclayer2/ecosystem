@@ -208,6 +208,40 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Owlto.png", 
       "description": "Owlto Finance is a decentralized cross-rollup bridge that focuses on L2, providing 'safe, fast, cheap, and easy-to-use' services.", 
       "link": "https://owlto.finance/"
+    }{
+      "name": "DIA", 
+      "types": ["Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/dia.svg", 
+      "description": "DIA is a well-known oracle protocol, currently supporting 40+ mainstream L1 and L2 blockchains, continuously providing price feeds for 3000+ tokens and 18000+ NFTs. DIA will connect to BEVM, providing oracle quotation services for BEVM ecosystem projects.", 
+      "link": "https://www.diadata.org"
+    },
+     {
+      "name": "Thirdweb", 
+      "types": ["Dev Tools"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/thirdweb.png", 
+      "description": "Thirdweb is a Web3 development platform that provides pre-built smart contracts to create products, allowing developers to build products quickly and efficiently. Currently, Thirdweb is almost compatible with all mainstream smart contract platforms including BEVM.", 
+      "link": "https://thirdweb.com/"
+    },
+     {
+      "name": "ParticleNtwrk", 
+      "types": ["Wallet"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNtwrk.png", 
+      "description": "ParticleNtwrk is currently the world's largest AA wallet, supporting 30+ mainstream chains. ParticleNtwrk is currently integrating BEVM, allowing users to experience the convenience of AA smart contract wallets on BTCL2.", 
+      "link": "https://particle.network/"
+    },
+      {
+      "name": "Polyhedra", 
+      "types": ["Infra","Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.svg", 
+      "description": "Polyhedra is a Web3 cross-operation infrastructure featuring ZKBridge, currently the largest ZKBridge ecosystem, supporting 35+ mainstream L1 and L2 cross-chain interoperability. It also supports both FT and NFT cross-chains at present.", 
+      "link": "https://polyhedra.network/"
+    },
+     {
+      "name": "Bool Bridge", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bool.jpg", 
+      "description": "", 
+      "link": "https://bool.network/"
     }
    ]
   
