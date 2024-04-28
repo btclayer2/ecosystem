@@ -240,8 +240,50 @@
       "name": "Bool Bridge", 
       "types": ["Bridge"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bool.jpg", 
-      "description": "", 
+      "description": "Bool Network is a Bitcoin Verification Layer that turns all blockchains into Bitcoin's Layer 2.", 
       "link": "https://bool.network/"
+    },
+     {
+      "name": "OOOO", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/oooo.png", 
+      "description": "oooo", 
+      "link": "https://oooo.money/"
+    },
+     {
+      "name": "BitSmiley", 
+      "types": ["Defi","Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsmiley.png", 
+      "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE. bitSmiley stands as a groundbreaking protocol on the Bitcoin blockchain, driven by the Fintegra framework and comprising three pivotal components.", 
+      "link": "https://www.bitsmiley.io/"
+    },
+     {
+      "name": "BPEX", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bpex.png", 
+      "description": "BPEX, a Bitcoin derivatives protocol, features USD-pegged perpetual futures with BTC as collateral, offering up to 50x leverage. It supports trading in over 1000 assets, including Bitcoin inscriptions, and provides real BTC returns to both liquidity providers and traders while ensuring zero-slippage trading.", 
+      "link": "https://www.bpex.io"
+    },
+     {
+      "name": "Beast", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/beast.png", 
+      "description": "Beast is the first contract DEX based on Bitcoin L2, providing traders with safe and transparent contract trading, creating a unique decentralized contract trading experience.", 
+      "link": "https://beast.trade/"
+    },
+     {
+      "name": "Bevmswap", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevmswap.png", 
+      "description": "Bevmswap is the first  BEVM Official's AMM DEX, EVM-Compatible.  Bevmswap focuses on providing the best trading experience and superior liquidity efficiency for BTC ecosystem DeFi users through constant function market makers (CFMM) ,centralized liquidity protocol, and VeToken governance model. Unlike other DEXs, Bevmswap supports liquidity pools made up of yield tokens, allowing contributors to earn double returns from both yield token profits and providing liquidity.", 
+      "link": "https://bevmswap.xyz"
+    },
+     {
+      "name": "Bido", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bido.png", 
+      "description": "Bido is a liquid-staking protocol for BTC on the BEVM network, which is developed based on the lido on the Ethereum.", 
+      "link": "https://app.bido.finance/"
     }
    ]
   
