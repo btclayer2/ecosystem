@@ -253,7 +253,7 @@
      {
       "name": "BitSmiley", 
       "types": ["Defi","Infra"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsmiley.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsmiley.jpeg", 
       "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE. bitSmiley stands as a groundbreaking protocol on the Bitcoin blockchain, driven by the Fintegra framework and comprising three pivotal components.", 
       "link": "https://www.bitsmiley.io/"
     },
@@ -267,7 +267,7 @@
      {
       "name": "Beast", 
       "types": ["DEX"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/beast.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/beast.jpeg", 
       "description": "Beast is the first contract DEX based on Bitcoin L2, providing traders with safe and transparent contract trading, creating a unique decentralized contract trading experience.", 
       "link": "https://beast.trade/"
     },
