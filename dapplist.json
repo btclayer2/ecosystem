@@ -101,7 +101,7 @@
      {
       "name": "ParticleNetwork", 
       "types": ["Wallet"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNetwork.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNtwrk.png", 
       "description": "ParticleNetwork is currently the world's largest AA wallet, supporting 30+ mainstream chains. ParticleNetwork is currently integrating BEVM, allowing users to experience the convenience of AA smart contract wallets on BTCL2.", 
       "link": "https://particle.network/"
     },
@@ -244,9 +244,7 @@
       "name": "OmniBTC", 
       "types": ["Defi","Bridge"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
-      "description": "
-
-The first decentralized omnichain financial platform.", 
+      "description": "The first decentralized omnichain financial platform.", 
       "link": "https://www.omnibtc.finance"
     },
     {
@@ -266,7 +264,7 @@ The first decentralized omnichain financial platform.",
     {
       "name": "ParticleNetwork", 
       "types": ["Wallet"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNetwork.png", 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNtwrk.png", 
       "description": "ParticleNetwork is currently the world's largest AA wallet, supporting 30+ mainstream chains. ParticleNetwork is currently integrating BEVM, allowing users to experience the convenience of AA smart contract wallets on BTCL2.", 
       "link": "https://particle.network/"
     },
