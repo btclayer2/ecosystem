@@ -1,4 +1,125 @@
 {
+   "bevm-mainnet": [
+    {
+      "name": "Beast", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/beast.jpeg", 
+      "description": "Beast is the first contract DEX based on Bitcoin L2, providing traders with safe and transparent contract trading, creating a unique decentralized contract trading experience.", 
+      "link": "https://beast.trade/"
+    },
+    {
+      "name": "Bevmswap", 
+      "types": ["DEX"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevmswap.png", 
+      "description": "Bevmswap is the first  BEVM Official's AMM DEX, EVM-Compatible.  Bevmswap focuses on providing the best trading experience and superior liquidity efficiency for BTC ecosystem DeFi users through constant function market makers (CFMM) ,centralized liquidity protocol, and VeToken governance model. Unlike other DEXs, Bevmswap supports liquidity pools made up of yield tokens, allowing contributors to earn double returns from both yield token profits and providing liquidity.", 
+      "link": "https://bevmswap.xyz"
+    },
+    {
+      "name": "Bido", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bido.png", 
+      "description": "Bido is a liquid-staking protocol for BTC on the BEVM network, which is developed based on the lido on the Ethereum.", 
+      "link": "https://app.bido.finance/"
+    },
+     {
+      "name": "Bitena", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitena.jpg", 
+      "description": "Bitena, based on Bitcoin’s Layer 2, is a synthetic dollar protocol providing a stablecoin solution independent of traditional banks.", 
+      "link": "https://bitena.finance/"
+    },
+    {
+      "name": "BitSmiley", 
+      "types": ["Defi","Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsmiley.jpeg", 
+      "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE. bitSmiley stands as a groundbreaking protocol on the Bitcoin blockchain, driven by the Fintegra framework and comprising three pivotal components.", 
+      "link": "https://www.bitsmiley.io/"
+    },
+    {
+      "name": "Bool Bridge", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bool.jpg", 
+      "description": "Bool Network is a Bitcoin Verification Layer that turns all blockchains into Bitcoin's Layer 2.", 
+      "link": "https://bool.network/"
+    },
+    {
+      "name": "BPEX", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bpex.png", 
+      "description": "BPEX, a Bitcoin derivatives protocol, features USD-pegged perpetual futures with BTC as collateral, offering up to 50x leverage. It supports trading in over 1000 assets, including Bitcoin inscriptions, and provides real BTC returns to both liquidity providers and traders while ensuring zero-slippage trading.", 
+      "link": "https://www.bpex.io"
+    },
+    {
+      "name": "Bunnyfi", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bunnyfi.png", 
+      "description": "BunnyFi is a cross-chain interoperability protocol, providing high-performance support for high-frequency bridging.", 
+      "link": "https://bunnyfi.io"
+    },
+    {
+      "name": "DIA", 
+      "types": ["Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/dia.svg", 
+      "description": "DIA is a well-known oracle protocol, currently supporting 40+ mainstream L1 and L2 blockchains, continuously providing price feeds for 3000+ tokens and 18000+ NFTs. DIA will connect to BEVM, providing oracle quotation services for BEVM ecosystem projects.", 
+      "link": "https://www.diadata.org"
+    },
+    {
+      "name": "Meson", 
+      "types": ["Bridge","Infra"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/meson.svg", 
+      "description": "Meson is a leading unified cross-chain bridging protocol that enables the seamless cross-chain experience for tokens like BTC, ETH, BNB, USDC, USDT, and DAI across more than 33 high-performance public chains and layer-2 solutions.", 
+      "link": "https://meson.fi/"
+    },
+    {
+      "name": "OmniBTC", 
+      "types": ["Defi","Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
+      "description": "The first decentralized omnichain financial platform.", 
+      "link": "https://www.omnibtc.finance"
+    },
+    {
+      "name": "OOOO", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/oooo.png", 
+      "description": "oooo", 
+      "link": "https://oooo.money/"
+    },
+    {
+      "name": "Owlto Finance", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Owlto.png", 
+      "description": "Owlto Finance is a decentralized cross-rollup bridge that focuses on L2, providing 'safe, fast, cheap, and easy-to-use' services.", 
+      "link": "https://owlto.finance/"
+    },
+    {
+      "name": "ParticleNetwork", 
+      "types": ["Wallet"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNtwrk.png", 
+      "description": "ParticleNetwork is currently the world's largest AA wallet, supporting 30+ mainstream chains. ParticleNetwork is currently integrating BEVM, allowing users to experience the convenience of AA smart contract wallets on BTCL2.", 
+      "link": "https://particle.network/"
+    },
+    {
+      "name": "Polyhedra", 
+      "types": ["Infra","Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.svg", 
+      "description": "Polyhedra is a Web3 cross-operation infrastructure featuring ZKBridge, currently the largest ZKBridge ecosystem, supporting 35+ mainstream L1 and L2 cross-chain interoperability. It also supports both FT and NFT cross-chains at present.", 
+      "link": "https://polyhedra.network/"
+    },
+    {
+      "name": "Satoshi Protocol", 
+      "types": ["Infra","Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satoshiprotocol.png", 
+      "description": "The Satoshi Protocol is a fully decentralized BTC over-collateralized stablecoin built on BEVM. Any user can mint stablecoins by collateralizing BTC. In the future, the Satoshi Protocol will also integrate its stablecoin into the Lightning Network, allowing its BTC stablecoin to be truly used in the real world.", 
+      "link": "https://satoshiprotocol.org"
+    },
+    {
+      "name": "Thirdweb", 
+      "types": ["Dev Tools"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/thirdweb.png", 
+      "description": "Thirdweb is a Web3 development platform that provides pre-built smart contracts to create products, allowing developers to build products quickly and efficiently. Currently, Thirdweb is almost compatible with all mainstream smart contract platforms including BEVM.", 
+      "link": "https://thirdweb.com/"
+    }
+],
   "bevm-canary": [
     {
       "name": "OmniBTC", 
@@ -182,113 +303,6 @@
       "description": "The 1st AMM+NFT platform on #BEVM (BTC Layer2) offers lightning-fast speed and minimal fees Deploy, bridge, and trade your #Bitcoin NFTs and BRC-20 tokens on L2", 
       "link": "https://www.bitsea.ink/#/home"
     }
-  ],
-"bevm-mainnet": [
-    {
-      "name": "Beast", 
-      "types": ["DEX"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/beast.jpeg", 
-      "description": "Beast is the first contract DEX based on Bitcoin L2, providing traders with safe and transparent contract trading, creating a unique decentralized contract trading experience.", 
-      "link": "https://beast.trade/"
-    },
-    {
-      "name": "Bevmswap", 
-      "types": ["DEX"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevmswap.png", 
-      "description": "Bevmswap is the first  BEVM Official's AMM DEX, EVM-Compatible.  Bevmswap focuses on providing the best trading experience and superior liquidity efficiency for BTC ecosystem DeFi users through constant function market makers (CFMM) ,centralized liquidity protocol, and VeToken governance model. Unlike other DEXs, Bevmswap supports liquidity pools made up of yield tokens, allowing contributors to earn double returns from both yield token profits and providing liquidity.", 
-      "link": "https://bevmswap.xyz"
-    },
-    {
-      "name": "Bido", 
-      "types": ["Defi"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bido.png", 
-      "description": "Bido is a liquid-staking protocol for BTC on the BEVM network, which is developed based on the lido on the Ethereum.", 
-      "link": "https://app.bido.finance/"
-    },
-    {
-      "name": "BitSmiley", 
-      "types": ["Defi","Infra"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bitsmiley.jpeg", 
-      "description": "bitSmiley is a Bitcoin-native Defi project co-led by OKX Venture and ABCDE. bitSmiley stands as a groundbreaking protocol on the Bitcoin blockchain, driven by the Fintegra framework and comprising three pivotal components.", 
-      "link": "https://www.bitsmiley.io/"
-    },
-    {
-      "name": "Bool Bridge", 
-      "types": ["Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bool.jpg", 
-      "description": "Bool Network is a Bitcoin Verification Layer that turns all blockchains into Bitcoin's Layer 2.", 
-      "link": "https://bool.network/"
-    },
-    {
-      "name": "BPEX", 
-      "types": ["Defi"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bpex.png", 
-      "description": "BPEX, a Bitcoin derivatives protocol, features USD-pegged perpetual futures with BTC as collateral, offering up to 50x leverage. It supports trading in over 1000 assets, including Bitcoin inscriptions, and provides real BTC returns to both liquidity providers and traders while ensuring zero-slippage trading.", 
-      "link": "https://www.bpex.io"
-    },
-    {
-      "name": "DIA", 
-      "types": ["Infra"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/dia.svg", 
-      "description": "DIA is a well-known oracle protocol, currently supporting 40+ mainstream L1 and L2 blockchains, continuously providing price feeds for 3000+ tokens and 18000+ NFTs. DIA will connect to BEVM, providing oracle quotation services for BEVM ecosystem projects.", 
-      "link": "https://www.diadata.org"
-    },
-    {
-      "name": "Meson", 
-      "types": ["Bridge","Infra"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/meson.svg", 
-      "description": "Meson is a leading unified cross-chain bridging protocol that enables the seamless cross-chain experience for tokens like BTC, ETH, BNB, USDC, USDT, and DAI across more than 33 high-performance public chains and layer-2 solutions.", 
-      "link": "https://meson.fi/"
-    },
-    {
-      "name": "OmniBTC", 
-      "types": ["Defi","Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png", 
-      "description": "The first decentralized omnichain financial platform.", 
-      "link": "https://www.omnibtc.finance"
-    },
-    {
-      "name": "OOOO", 
-      "types": ["Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/oooo.png", 
-      "description": "oooo", 
-      "link": "https://oooo.money/"
-    },
-    {
-      "name": "Owlto Finance", 
-      "types": ["Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Owlto.png", 
-      "description": "Owlto Finance is a decentralized cross-rollup bridge that focuses on L2, providing 'safe, fast, cheap, and easy-to-use' services.", 
-      "link": "https://owlto.finance/"
-    },
-    {
-      "name": "ParticleNetwork", 
-      "types": ["Wallet"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/ParticleNtwrk.png", 
-      "description": "ParticleNetwork is currently the world's largest AA wallet, supporting 30+ mainstream chains. ParticleNetwork is currently integrating BEVM, allowing users to experience the convenience of AA smart contract wallets on BTCL2.", 
-      "link": "https://particle.network/"
-    },
-    {
-      "name": "Polyhedra", 
-      "types": ["Infra","Bridge"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.svg", 
-      "description": "Polyhedra is a Web3 cross-operation infrastructure featuring ZKBridge, currently the largest ZKBridge ecosystem, supporting 35+ mainstream L1 and L2 cross-chain interoperability. It also supports both FT and NFT cross-chains at present.", 
-      "link": "https://polyhedra.network/"
-    },
-    {
-      "name": "Satoshi Protocol", 
-      "types": ["Infra","Defi"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satoshiprotocol.png", 
-      "description": "The Satoshi Protocol is a fully decentralized BTC over-collateralized stablecoin built on BEVM. Any user can mint stablecoins by collateralizing BTC. In the future, the Satoshi Protocol will also integrate its stablecoin into the Lightning Network, allowing its BTC stablecoin to be truly used in the real world.", 
-      "link": "https://satoshiprotocol.org"
-    },
-    {
-      "name": "Thirdweb", 
-      "types": ["Dev Tools"], 
-      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/thirdweb.png", 
-      "description": "Thirdweb is a Web3 development platform that provides pre-built smart contracts to create products, allowing developers to build products quickly and efficiently. Currently, Thirdweb is almost compatible with all mainstream smart contract platforms including BEVM.", 
-      "link": "https://thirdweb.com/"
-    }
-]
+  ]
   
     }
