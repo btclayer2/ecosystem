@@ -118,6 +118,13 @@
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/thirdweb.png", 
       "description": "Thirdweb is a Web3 development platform that provides pre-built smart contracts to create products, allowing developers to build products quickly and efficiently. Currently, Thirdweb is almost compatible with all mainstream smart contract platforms including BEVM.", 
       "link": "https://thirdweb.com/"
+    },
+    {
+      "name": "Comet", 
+      "types": ["Bridge"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/comet.png", 
+      "description": "Comet: The First Seamless Interlink Communication Protocol Between All Bitcoin and Ethereum Ecosystems.", 
+      "link": "https://cometbridge.app"
     }
 ],
   "bevm-canary": [
