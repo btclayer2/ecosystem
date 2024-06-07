@@ -1,6 +1,15 @@
 {
     "bevm-mainnet": [
         {
+            "name": "SOEX",
+            "types": [
+                "Social"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
+            "description": "SOEX is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
+            "link": "https://dsyncle.io"
+        },
+        {
             "name": "Beast",
             "types": [
                 "DEX"
@@ -288,11 +297,11 @@
             "link": "https://www.diadata.org"
         },
         {
-            "name": "Dsyncle",
+            "name": "SOEX",
             "types": [
                 "Social"
             ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Dsyncle.png",
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
             "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
             "link": "https://dsyncle.io"
         },
