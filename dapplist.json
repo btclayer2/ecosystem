@@ -1,6 +1,6 @@
 {
    "bevm-mainnet": [
-       {
+   {
       "name": "StakeStone", 
       "types": ["Defi"], 
       "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/stakestone.png", 
