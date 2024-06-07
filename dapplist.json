@@ -1,15 +1,6 @@
 {
     "bevm-mainnet": [
         {
-            "name": "SOEX",
-            "types": [
-                "Social"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
-            "description": "SOEX is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
-            "link": "https://dsyncle.io"
-        },
-        {
             "name": "Beast",
             "types": [
                 "DEX"
@@ -222,6 +213,15 @@
             "link": "https://satoshiprotocol.org"
         },
         {
+            "name": "SOEX",
+            "types": [
+                "Social"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
+            "description": "SOEX is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
+            "link": "https://dsyncle.io"
+        },
+        {
             "name": "StakeStone",
             "types": [
                 "Defi"
@@ -295,15 +295,6 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/dia.svg",
             "description": "DIA is a well-known oracle protocol, currently supporting 40+ mainstream L1 and L2 blockchains, continuously providing price feeds for 3000+ tokens and 18000+ NFTs. DIA will connect to BEVM, providing oracle quotation services for BEVM ecosystem projects.",
             "link": "https://www.diadata.org"
-        },
-        {
-            "name": "SOEX",
-            "types": [
-                "Social"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
-            "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
-            "link": "https://dsyncle.io"
         },
         {
             "name": "Envio",
@@ -434,6 +425,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/satsat.jpeg",
             "description": "A Community-Oriented Bitcoin Layer2 BRC-20 Trading Platform",
             "link": "https://satsat.exchange/en"
+        },
+        {
+            "name": "SOEX",
+            "types": [
+                "Social"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/soex.png",
+            "description": "Dsyncle is a transaction-driven Web3 instant messaging tool built based on Nostr/Tradivi(Cake)/Sketch protocols.",
+            "link": "https://dsyncle.io"
         },
         {
             "name": "SoulBound",
