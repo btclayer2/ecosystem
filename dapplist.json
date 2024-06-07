@@ -1,56 +1,6 @@
 {
     "bevm-mainnet": [
         {
-            "name": "BridgeM",
-            "types": [
-                "Infra"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bridgem.png",
-            "description": "BridgeM is a decentralized interoperability protocol that seamlessly connects Ethereum Layer 2 and Bitcoin Layer 2 networks. It facilitates secure and efficient data communication services. ",
-            "link": "https://bridgem.io/"
-        },
-        {
-            "name": "Richverse",
-            "types": [
-                "Game"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/richverse.png",
-            "description": "Focus on the BTC ecosystem build；Starting from Asset Gamification Network,Make the BTC ecosystem more rich and interesting.",
-            "link": "https://www.richverse.io/"
-        },{
-            "name": "Omnity",
-            "types": [
-                "Infra"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnity.png",
-            "description": "",
-            "link": "https://www.omnity.network/"
-        },{
-            "name": "Coral Finance",
-            "types": [
-                "Defi"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/coral.png",
-            "description": "Coral Finance is a staking protocol on Bitcoin layer2 that allows users to stake non-BTC assets and earn leveraged yield. ",
-            "link": "https://www.coraldex.finance/"
-        },{
-            "name": "Intract",
-            "types": [
-                "Social"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/intract.png",
-            "description": "Intract is a gamified user-engagement platform with 12M+ verified on-chain users. We facilitate exploration of web3 ecosystems through quests and rewards. Our past campaigns with Binance, MetaMask, and Polygon engaged millions of users, fostering learning about ecosystems, boosting TVL, and encouraging on-chain activities. Our community competes on a gamified leaderboard, incentivizing loyalty and activity.",
-            "link": "https://www.intract.io/"
-        },{
-            "name": "Bevscriptions",
-            "types": [
-                "Inscription"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevscriptions.jpg",
-            "description": "The first inscription platform on BTC L2 - BEVM.",
-            "link": "https://www.bevscriptions.com"
-        },
-        {
             "name": "Beast",
             "types": [
                 "DEX"
@@ -67,6 +17,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevmswap.png",
             "description": "Bevmswap is the first  BEVM Official's AMM DEX, EVM-Compatible.  Bevmswap focuses on providing the best trading experience and superior liquidity efficiency for BTC ecosystem DeFi users through constant function market makers (CFMM) ,centralized liquidity protocol, and VeToken governance model. Unlike other DEXs, Bevmswap supports liquidity pools made up of yield tokens, allowing contributors to earn double returns from both yield token profits and providing liquidity.",
             "link": "https://bevmswap.xyz"
+        },
+        {
+            "name": "Bevscriptions",
+            "types": [
+                "Inscription"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bevscriptions.jpg",
+            "description": "The first inscription platform on BTC L2 - BEVM.",
+            "link": "https://www.bevscriptions.com"
         },
         {
             "name": "Bido",
@@ -115,6 +74,15 @@
             "link": "https://www.bpex.io"
         },
         {
+            "name": "BridgeM",
+            "types": [
+                "Infra"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/bridgem.png",
+            "description": "BridgeM is a decentralized interoperability protocol that seamlessly connects Ethereum Layer 2 and Bitcoin Layer 2 networks. It facilitates secure and efficient data communication services. ",
+            "link": "https://bridgem.io/"
+        },
+        {
             "name": "Bunnyfi",
             "types": [
                 "Bridge"
@@ -133,6 +101,15 @@
             "link": "https://cometbridge.app"
         },
         {
+            "name": "Coral Finance",
+            "types": [
+                "Defi"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/coral.png",
+            "description": "Coral Finance is a staking protocol on Bitcoin layer2 that allows users to stake non-BTC assets and earn leveraged yield. ",
+            "link": "https://www.coraldex.finance/"
+        },
+        {
             "name": "DIA",
             "types": [
                 "Infra"
@@ -140,6 +117,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/dia.svg",
             "description": "DIA is a well-known oracle protocol, currently supporting 40+ mainstream L1 and L2 blockchains, continuously providing price feeds for 3000+ tokens and 18000+ NFTs. DIA will connect to BEVM, providing oracle quotation services for BEVM ecosystem projects.",
             "link": "https://www.diadata.org"
+        },
+        {
+            "name": "Intract",
+            "types": [
+                "Social"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/intract.png",
+            "description": "Intract is a gamified user-engagement platform with 12M+ verified on-chain users. We facilitate exploration of web3 ecosystems through quests and rewards. Our past campaigns with Binance, MetaMask, and Polygon engaged millions of users, fostering learning about ecosystems, boosting TVL, and encouraging on-chain activities. Our community competes on a gamified leaderboard, incentivizing loyalty and activity.",
+            "link": "https://www.intract.io/"
         },
         {
             "name": "Meson",
@@ -160,6 +146,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnibtc.png",
             "description": "The first decentralized omnichain financial platform.",
             "link": "https://www.omnibtc.finance"
+        },
+        {
+            "name": "Omnity",
+            "types": [
+                "Infra"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/omnity.png",
+            "description": "",
+            "link": "https://www.omnity.network/"
         },
         {
             "name": "OOOO",
@@ -197,6 +192,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/Polyhedra.svg",
             "description": "Polyhedra is a Web3 cross-operation infrastructure featuring ZKBridge, currently the largest ZKBridge ecosystem, supporting 35+ mainstream L1 and L2 cross-chain interoperability. It also supports both FT and NFT cross-chains at present.",
             "link": "https://polyhedra.network/"
+        },
+        {
+            "name": "Richverse",
+            "types": [
+                "Game"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/richverse.png",
+            "description": "Focus on the BTC ecosystem build；Starting from Asset Gamification Network,Make the BTC ecosystem more rich and interesting.",
+            "link": "https://www.richverse.io/"
         },
         {
             "name": "Satoshi Protocol",
