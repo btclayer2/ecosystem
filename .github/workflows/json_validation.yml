@@ -18,6 +18,14 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Check JSON validity
+    - name: Check and Sort JSON
       run: |
-        python ./validate_json.py
+        python ./validate_json.py  # 这里使用你的 validate_json.py 脚本
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add dapplist.json  # 确保这是你的 JSON 文件名
+        git commit -m "Validate and sort JSON data" -a || echo "No changes to commit"
+        git push
