@@ -1,5 +1,12 @@
 {
    "bevm-mainnet": [
+       {
+      "name": "StakeStone", 
+      "types": ["Defi"], 
+      "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/stakestone.png", 
+      "description": "A leader in the Omnichain Liquidity Infrastructure Liquidity is the infrastructure. It is the belief of StakeStone.With StakeStone's Liquid Staking solutions, stakers can unlock their staked ETH, accessing liquidity for wider DeFi participation while still earning rewards. ", 
+      "link": "http://stakestone.io"
+    },
     {
       "name": "Beast", 
       "types": ["DEX"], 
