@@ -38,7 +38,7 @@ def sort_data(json_data):
     for key in json_data.keys():
         json_data[key] = sorted(json_data[key], key=lambda x: x['name'].lower())
 
-data_path = 'path_to_your_json_file.json'
+data_path = 'dapplist.json'
 
 try:
     with open(data_path, 'r') as file:
