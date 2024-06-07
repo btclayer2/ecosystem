@@ -20,12 +20,12 @@ jobs:
 
     - name: Check and Sort JSON
       run: |
-        python ./validate_json.py  # 这里使用你的 validate_json.py 脚本
+        python ./validate_json.py  
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add dapplist.json  # 确保这是你的 JSON 文件名
+        git add dapplist.json  
         git commit -m "Validate and sort JSON data" -a || echo "No changes to commit"
-        git push
+        git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/btclayer2/ecosystem.git main
