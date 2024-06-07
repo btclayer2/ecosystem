@@ -28,4 +28,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add dapplist.json  
         git commit -m "Validate and sort JSON data" -a || echo "No changes to commit"
-        git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/btclayer2/ecosystem.git main
+        git push https://${{ secrets.C_ACCESS_TOKEN }}@github.com/btclayer2/ecosystem.git main
