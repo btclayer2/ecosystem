@@ -35,11 +35,19 @@ def validate_json(json_data):
 
     return True
 
+def sort_data(json_data):
+    for key in json_data.keys():
+        json_data[key] = sorted(json_data[key], key=lambda x: x['name'].lower())
+
 try:
     with open('dapplist.json', 'r') as file:
         data = json.load(file)
         if validate_json(data):
             print("JSON is valid.")
+            sort_data(data)  # Sorting the data after validation
+            print("Data sorted by name (case-insensitive).")
+            # Optionally print the sorted data
+            print(json.dumps(data, indent=4, ensure_ascii=False))
         else:
             sys.exit(1)
 except Exception as e:
