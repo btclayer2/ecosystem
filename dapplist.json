@@ -1,5 +1,13 @@
 {
-    "bevm-mainnet": [
+    "bevm-mainnet": [{
+            "name": "Polyflow",
+            "types": [
+                "Infra"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/polyflow.jpeg",
+            "description": "PolyFlow is a decentralized, modular, AI-focused infrastructure for crypto asset operations in PayFi.PID (Web3 Payment ID) is a decentralized identity verification solution constructed using zero-knowledge proofs.",
+            "link": "https://app.polyflow.tech/"
+        },
         {
             "name": "Beast",
             "types": [
