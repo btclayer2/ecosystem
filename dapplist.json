@@ -119,6 +119,15 @@
             "link": "https://www.diadata.org"
         },
         {
+            "name": "Envio",
+            "types": [
+                "Dev Tools"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/envio.jpeg",
+            "description": "Envio is a modern, multi-chain EVM blockchain indexing framework speed-optimized for querying real-time and historical data.",
+            "link": "https://envio.dev/"
+        },
+        {
             "name": "Intract",
             "types": [
                 "Social"
