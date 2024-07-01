@@ -1,5 +1,41 @@
 {
-    "bevm-mainnet": [
+    "bevm-mainnet": [ 
+        {
+            "name": "Pay Protocol",
+            "types": [
+                "Infra"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/payprotocol.jpg",
+            "description": "Pay Protocol is the first and only Non-Custodial decentralized Crypto Payment system",
+            "link": "https://payprotocol.network/"
+        },
+          {
+            "name": "Supra",
+            "types": [
+                "Infra"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/supra.png",
+            "description": "Supra is a novel, high-throughput Oracle & IntraLaye",
+            "link": "https://supra.com"
+        },
+        {
+            "name": "Blend",
+            "types": [
+                "Defi"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/blend.jpg",
+            "description": "Blend strives to become the best decentralized lending protocol on BTC layer 2. It has been launched on BEVM. ",
+            "link": "https://www.blend.fan/"
+        },
+          {
+            "name": "ChainPort",
+            "types": [
+                "Bridge"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/chainport.png",
+            "description": "",
+            "link": "https://www.chainport.io/"
+        },
         {
             "name": "Beast",
             "types": [
