@@ -1,15 +1,6 @@
 {
     "bevm-mainnet": [
         {
-            "name": "Pell Network",
-            "types": [
-                "Defi"
-            ],
-            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/pell.png",
-            "description": "Pell is a decentralized trust marketplace that diversifies BTC and LSD yield, aiming to enhance security for BTC L2 networks.",
-            "link": "https://pell.network/"
-        },
-        {
             "name": "Beast",
             "types": [
                 "DEX"
@@ -227,6 +218,15 @@
             "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/payprotocol.jpg",
             "description": "Pay Protocol is the first and only Non-Custodial decentralized Crypto Payment system",
             "link": "https://payprotocol.network/"
+        },
+        {
+            "name": "Pell Network",
+            "types": [
+                "Defi"
+            ],
+            "icon": "https://raw.githubusercontent.com/btclayer2/ecosystem/main/assets/pell.png",
+            "description": "Pell is a decentralized trust marketplace that diversifies BTC and LSD yield, aiming to enhance security for BTC L2 networks.",
+            "link": "https://pell.network/"
         },
         {
             "name": "Polyflow",
